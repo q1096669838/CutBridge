@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build output
+build/
+dist/
+release/
+bin/
+*.app
+*.dmg
+*.zip
+*.test
+*.out
+
+# Signing credentials
+*.p12
+*.cer
+*.mobileprovision
+*.provisionprofile
+.env
+.env.*
+
+# Editors
+.vscode/
+.idea/
+
+# Private test material
+test-media/
+private-samples/
+*.report.json
