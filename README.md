@@ -81,4 +81,4 @@ CutBridge 是独立开源项目，与 Apple、Adobe 或 Blackmagic Design 不存
 
 ## License
 
-MIT License。发布前可将 `LICENSE` 中的 `CutBridge Contributors` 替换为实际著作权人姓名或公司名称。
+齐哥来啦！
