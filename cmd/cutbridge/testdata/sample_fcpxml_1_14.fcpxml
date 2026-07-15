@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+
+<fcpxml version="1.14">
+    <resources>
+        <format id="r1" frameDuration="1/50s" width="1080" height="1920" colorSpace="1-1-1 (Rec. 709)"/>
+        <asset id="r2" name="s35597.MP4" uid="C6683A10E1609FF534B602DFFF017A79" start="0s" duration="1632000/50000s" hasVideo="1" format="r1" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
+            <media-rep kind="original-media" sig="C6683A10E1609FF534B602DFFF017A79" src="file:///Users/qgllpro/Downloads/s35597.MP4">
+                <bookmark>Ym9vazwDAAAAAAUQQAAAAAvixrGBpdc0CJH5sXvW5N8bugvzZip/CsxEea4AGbqvAAAAAAAAAAAAAAAAAAAAAPgBAAAgAAAAAQIAALlKeQlwZgMtSi6qVVx+kL5BzQDHHAbPLbORk5uwyyWJBAAAAAMDAAAAGAAoBQAAAAEBAABVc2VycwAAAAcAAAABAQAAcWdsbHBybwAJAAAAAQEAAERvd25sb2FkcwAAAAoAAAABAQAAczM1NTk3Lk1QNAAAEAAAAAEGAAA4AAAASAAAAFgAAABsAAAACAAAAAQDAADwRwAAAAAAAAgAAAAEAwAAGDwEAAAAAAAIAAAABAMAAEs8BAAAAAAACAAAAAQDAABfHeMAAAAAABAAAAABBgAAmAAAAKgAAAC4AAAAyAAAAAgAAAAABAAAQcf/23uAAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMDAAAIAAAABAAAAAMDAAACAAAACAAAAAQDAAACAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJBik+cAAAAIAAAAAAQAAEHH34AvAAAAJAAAAAEBAABCNDgxNkJCOS03MTJELTRGMkEtQUUyOS1BN0FCNDFGMTgyNEIYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAPwAAAD+////AQAAAAAAAAAUAAAABBAAAIAAAAAAAAAABRAAANgAAAAAAAAAEBAAAAABAAAAAAAAQBAAAPAAAAAAAAAAVBAAACgBAAAAAAAAVRAAADQBAAAAAAAAVhAAACABAAAAAAAAAiAAAOwBAAAAAAAABSAAAFwBAAAAAAAAECAAAGwBAAAAAAAAESAAAKABAAAAAAAAEiAAAIABAAAAAAAAEyAAAJABAAAAAAAAICAAAMwBAAAAAAAAMCAAACABAAAAAAAAAcAAAEABAAAAAAAAEcAAAEgAAAAAAAAAEsAAAFABAAAAAAAAENAAACwAAAAAAAAAhPAAAAQAAAAAAAAA</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>线性PCM</string>
+                        <string>AVC Coding</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-07-14 20:32:07 +0800"/>
+            </metadata>
+        </asset>
+        <asset id="r3" name="s35569.MP4" uid="8B7AFBF0E11C6DC5557B86B1544C7426" start="0s" duration="1008000/50000s" hasVideo="1" format="r1" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
+            <media-rep kind="original-media" sig="8B7AFBF0E11C6DC5557B86B1544C7426" src="file:///Users/qgllpro/Downloads/s35569.MP4">
+                <bookmark>Ym9vazwDAAAAAAUQQAAAACavSpbkqmGXNqEkXWV+J5V8a1Lc8hZ4anb51NU05+YsAAAAAAAAAAAAAAAAAAAAAPgBAAAgAAAAAQIAABvciKdPFjiwww3yrOwkqH/2B0Yv7v9kCsjGsgCwJNWRBAAAAAMDAAAAGAAoBQAAAAEBAABVc2VycwAAAAcAAAABAQAAcWdsbHBybwAJAAAAAQEAAERvd25sb2FkcwAAAAoAAAABAQAAczM1NTY5Lk1QNAAAEAAAAAEGAAA4AAAASAAAAFgAAABsAAAACAAAAAQDAADwRwAAAAAAAAgAAAAEAwAAGDwEAAAAAAAIAAAABAMAAEs8BAAAAAAACAAAAAQDAAA8HeMAAAAAABAAAAABBgAAmAAAAKgAAAC4AAAAyAAAAAgAAAAABAAAQcf/0+mAAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMDAAAIAAAABAAAAAMDAAACAAAACAAAAAQDAAACAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJBik+cAAAAIAAAAAAQAAEHH34AvAAAAJAAAAAEBAABCNDgxNkJCOS03MTJELTRGMkEtQUUyOS1BN0FCNDFGMTgyNEIYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAPwAAAD+////AQAAAAAAAAAUAAAABBAAAIAAAAAAAAAABRAAANgAAAAAAAAAEBAAAAABAAAAAAAAQBAAAPAAAAAAAAAAVBAAACgBAAAAAAAAVRAAADQBAAAAAAAAVhAAACABAAAAAAAAAiAAAOwBAAAAAAAABSAAAFwBAAAAAAAAECAAAGwBAAAAAAAAESAAAKABAAAAAAAAEiAAAIABAAAAAAAAEyAAAJABAAAAAAAAICAAAMwBAAAAAAAAMCAAACABAAAAAAAAAcAAAEABAAAAAAAAEcAAAEgAAAAAAAAAEsAAAFABAAAAAAAAENAAACwAAAAAAAAAhPAAAAQAAAAAAAAA</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>线性PCM</string>
+                        <string>AVC Coding</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-07-14 20:32:07 +0800"/>
+            </metadata>
+        </asset>
+        <asset id="r4" name="s35565.MP4" uid="F3A484AACC8D18C02682EFB4DDD4048F" start="0s" duration="1464000/50000s" hasVideo="1" format="r1" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
+            <media-rep kind="original-media" sig="F3A484AACC8D18C02682EFB4DDD4048F" src="file:///Users/qgllpro/Downloads/s35565.MP4">
+                <bookmark>Ym9vazwDAAAAAAUQQAAAABWpDZ0akuLAxYoR3AduWEZJ3bRXqZcOPKv8uWevtGoMAAAAAAAAAAAAAAAAAAAAAPgBAAAgAAAAAQIAAELWfJI+0/Vf0VcFWHHILjljoeoCJFuUnX20yryBPidNBAAAAAMDAAAAGAAoBQAAAAEBAABVc2VycwAAAAcAAAABAQAAcWdsbHBybwAJAAAAAQEAAERvd25sb2FkcwAAAAoAAAABAQAAczM1NTY1Lk1QNAAAEAAAAAEGAAA4AAAASAAAAFgAAABsAAAACAAAAAQDAADwRwAAAAAAAAgAAAAEAwAAGDwEAAAAAAAIAAAABAMAAEs8BAAAAAAACAAAAAQDAAA1HeMAAAAAABAAAAABBgAAmAAAAKgAAAC4AAAAyAAAAAgAAAAABAAAQcf/05+AAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMDAAAIAAAABAAAAAMDAAACAAAACAAAAAQDAAACAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJBik+cAAAAIAAAAAAQAAEHH34AvAAAAJAAAAAEBAABCNDgxNkJCOS03MTJELTRGMkEtQUUyOS1BN0FCNDFGMTgyNEIYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAPwAAAD+////AQAAAAAAAAAUAAAABBAAAIAAAAAAAAAABRAAANgAAAAAAAAAEBAAAAABAAAAAAAAQBAAAPAAAAAAAAAAVBAAACgBAAAAAAAAVRAAADQBAAAAAAAAVhAAACABAAAAAAAAAiAAAOwBAAAAAAAABSAAAFwBAAAAAAAAECAAAGwBAAAAAAAAESAAAKABAAAAAAAAEiAAAIABAAAAAAAAEyAAAJABAAAAAAAAICAAAMwBAAAAAAAAMCAAACABAAAAAAAAAcAAAEABAAAAAAAAEcAAAEgAAAAAAAAAEsAAAFABAAAAAAAAENAAACwAAAAAAAAAhPAAAAQAAAAAAAAA</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>线性PCM</string>
+                        <string>AVC Coding</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-07-14 20:32:07 +0800"/>
+            </metadata>
+        </asset>
+        <asset id="r5" name="s35535.MP4" uid="EB17CA11C4AC5F25570FA5FADD91B8B8" start="0s" duration="1296000/50000s" hasVideo="1" format="r1" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
+            <media-rep kind="original-media" sig="EB17CA11C4AC5F25570FA5FADD91B8B8" src="file:///Users/qgllpro/Downloads/s35535.MP4">
+                <bookmark>Ym9vazwDAAAAAAUQQAAAAL7mdeKYptrXrQAY1mvIiFMWwdakeGvR5Q78TDMOr8CeAAAAAAAAAAAAAAAAAAAAAPgBAAAgAAAAAQIAAOZSxiHsbLDMi2pTsq0o1QSOO7s2Ho5t+IvwzCgaa+XSBAAAAAMDAAAAGAAoBQAAAAEBAABVc2VycwAAAAcAAAABAQAAcWdsbHBybwAJAAAAAQEAAERvd25sb2FkcwAAAAoAAAABAQAAczM1NTM1Lk1QNAAAEAAAAAEGAAA4AAAASAAAAFgAAABsAAAACAAAAAQDAADwRwAAAAAAAAgAAAAEAwAAGDwEAAAAAAAIAAAABAMAAEs8BAAAAAAACAAAAAQDAAAMHeMAAAAAABAAAAABBgAAmAAAAKgAAAC4AAAAyAAAAAgAAAAABAAAQcf/zs8AAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMDAAAIAAAABAAAAAMDAAACAAAACAAAAAQDAAACAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJBik+cAAAAIAAAAAAQAAEHH34AvAAAAJAAAAAEBAABCNDgxNkJCOS03MTJELTRGMkEtQUUyOS1BN0FCNDFGMTgyNEIYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAPwAAAD+////AQAAAAAAAAAUAAAABBAAAIAAAAAAAAAABRAAANgAAAAAAAAAEBAAAAABAAAAAAAAQBAAAPAAAAAAAAAAVBAAACgBAAAAAAAAVRAAADQBAAAAAAAAVhAAACABAAAAAAAAAiAAAOwBAAAAAAAABSAAAFwBAAAAAAAAECAAAGwBAAAAAAAAESAAAKABAAAAAAAAEiAAAIABAAAAAAAAEyAAAJABAAAAAAAAICAAAMwBAAAAAAAAMCAAACABAAAAAAAAAcAAAEABAAAAAAAAEcAAAEgAAAAAAAAAEsAAAFABAAAAAAAAENAAACwAAAAAAAAAhPAAAAQAAAAAAAAA</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>线性PCM</string>
+                        <string>AVC Coding</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-07-14 20:32:07 +0800"/>
+            </metadata>
+        </asset>
+        <asset id="r6" name="s35532.MP4" uid="1315B76E2D154CD8D4FA2D87D560E955" start="0s" duration="1584000/50000s" hasVideo="1" format="r1" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
+            <media-rep kind="original-media" sig="1315B76E2D154CD8D4FA2D87D560E955" src="file:///Users/qgllpro/Downloads/s35532.MP4">
+                <bookmark>Ym9vazwDAAAAAAUQQAAAAN/awk81dw5n9dRJxG7ooKAcjV5QyOs2PxsHgsf9EGc1AAAAAAAAAAAAAAAAAAAAAPgBAAAgAAAAAQIAAOe522z9A7qx0O1FE+/SHMYxH3fGU3frM/v8ezfuE4e6BAAAAAMDAAAAGAAoBQAAAAEBAABVc2VycwAAAAcAAAABAQAAcWdsbHBybwAJAAAAAQEAAERvd25sb2FkcwAAAAoAAAABAQAAczM1NTMyLk1QNAAAEAAAAAEGAAA4AAAASAAAAFgAAABsAAAACAAAAAQDAADwRwAAAAAAAAgAAAAEAwAAGDwEAAAAAAAIAAAABAMAAEs8BAAAAAAACAAAAAQDAAD0HOMAAAAAABAAAAABBgAAmAAAAKgAAAC4AAAAyAAAAAgAAAAABAAAQcf/zjIAAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMDAAAIAAAABAAAAAMDAAACAAAACAAAAAQDAAACAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJBik+cAAAAIAAAAAAQAAEHH34AvAAAAJAAAAAEBAABCNDgxNkJCOS03MTJELTRGMkEtQUUyOS1BN0FCNDFGMTgyNEIYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAPwAAAD+////AQAAAAAAAAAUAAAABBAAAIAAAAAAAAAABRAAANgAAAAAAAAAEBAAAAABAAAAAAAAQBAAAPAAAAAAAAAAVBAAACgBAAAAAAAAVRAAADQBAAAAAAAAVhAAACABAAAAAAAAAiAAAOwBAAAAAAAABSAAAFwBAAAAAAAAECAAAGwBAAAAAAAAESAAAKABAAAAAAAAEiAAAIABAAAAAAAAEyAAAJABAAAAAAAAICAAAMwBAAAAAAAAMCAAACABAAAAAAAAAcAAAEABAAAAAAAAEcAAAEgAAAAAAAAAEsAAAFABAAAAAAAAENAAACwAAAAAAAAAhPAAAAQAAAAAAAAA</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>线性PCM</string>
+                        <string>AVC Coding</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-07-14 20:32:07 +0800"/>
+            </metadata>
+        </asset>
+        <asset id="r7" name="s35494.MP4" uid="BD2300885978EA566AC97065E0409CAC" start="0s" duration="4056000/50000s" hasVideo="1" format="r1" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
+            <media-rep kind="original-media" sig="BD2300885978EA566AC97065E0409CAC" src="file:///Users/qgllpro/Downloads/s35494.MP4">
+                <bookmark>Ym9vazwDAAAAAAUQQAAAANtOdGh/pj0UbxPqvFHVgLJM9mCjw7lcl+61GRiMzjPiAAAAAAAAAAAAAAAAAAAAAPgBAAAgAAAAAQIAADUqHqH7sks0FmS9M5doU32l5ZZxQEPqi53OA7OlxBIlBAAAAAMDAAAAGAAoBQAAAAEBAABVc2VycwAAAAcAAAABAQAAcWdsbHBybwAJAAAAAQEAAERvd25sb2FkcwAAAAoAAAABAQAAczM1NDk0Lk1QNAAAEAAAAAEGAAA4AAAASAAAAFgAAABsAAAACAAAAAQDAADwRwAAAAAAAAgAAAAEAwAAGDwEAAAAAAAIAAAABAMAAEs8BAAAAAAACAAAAAQDAADHHOMAAAAAABAAAAABBgAAmAAAAKgAAAC4AAAAyAAAAAgAAAAABAAAQcf/xd0AAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMDAAAIAAAABAAAAAMDAAACAAAACAAAAAQDAAACAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJBik+cAAAAIAAAAAAQAAEHH34AvAAAAJAAAAAEBAABCNDgxNkJCOS03MTJELTRGMkEtQUUyOS1BN0FCNDFGMTgyNEIYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAPwAAAD+////AQAAAAAAAAAUAAAABBAAAIAAAAAAAAAABRAAANgAAAAAAAAAEBAAAAABAAAAAAAAQBAAAPAAAAAAAAAAVBAAACgBAAAAAAAAVRAAADQBAAAAAAAAVhAAACABAAAAAAAAAiAAAOwBAAAAAAAABSAAAFwBAAAAAAAAECAAAGwBAAAAAAAAESAAAKABAAAAAAAAEiAAAIABAAAAAAAAEyAAAJABAAAAAAAAICAAAMwBAAAAAAAAMCAAACABAAAAAAAAAcAAAEABAAAAAAAAEcAAAEgAAAAAAAAAEsAAAFABAAAAAAAAENAAACwAAAAAAAAAhPAAAAQAAAAAAAAA</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>线性PCM</string>
+                        <string>AVC Coding</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-07-14 20:32:07 +0800"/>
+            </metadata>
+        </asset>
+        <asset id="r8" name="s35491.MP4" uid="55442F4287D65960BC2202115D0A80E6" start="0s" duration="528000/50000s" hasVideo="1" format="r1" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
+            <media-rep kind="original-media" sig="55442F4287D65960BC2202115D0A80E6" src="file:///Users/qgllpro/Downloads/s35491.MP4">
+                <bookmark>Ym9vazwDAAAAAAUQQAAAAIObafytcj1MuiuOK3ri0egaACaGrDQvVm0fNbJvLdrCAAAAAAAAAAAAAAAAAAAAAPgBAAAgAAAAAQIAAGUp0kx+K03DUDAVFxsQe0zD2Rw2DVsNpJRZxp/mjedLBAAAAAMDAAAAGAAoBQAAAAEBAABVc2VycwAAAAcAAAABAQAAcWdsbHBybwAJAAAAAQEAAERvd25sb2FkcwAAAAoAAAABAQAAczM1NDkxLk1QNAAAEAAAAAEGAAA4AAAASAAAAFgAAABsAAAACAAAAAQDAADwRwAAAAAAAAgAAAAEAwAAGDwEAAAAAAAIAAAABAMAAEs8BAAAAAAACAAAAAQDAAC3HOMAAAAAABAAAAABBgAAmAAAAKgAAAC4AAAAyAAAAAgAAAAABAAAQcf/xV+AAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMDAAAIAAAABAAAAAMDAAACAAAACAAAAAQDAAACAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJBik+cAAAAIAAAAAAQAAEHH34AvAAAAJAAAAAEBAABCNDgxNkJCOS03MTJELTRGMkEtQUUyOS1BN0FCNDFGMTgyNEIYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAPwAAAD+////AQAAAAAAAAAUAAAABBAAAIAAAAAAAAAABRAAANgAAAAAAAAAEBAAAAABAAAAAAAAQBAAAPAAAAAAAAAAVBAAACgBAAAAAAAAVRAAADQBAAAAAAAAVhAAACABAAAAAAAAAiAAAOwBAAAAAAAABSAAAFwBAAAAAAAAECAAAGwBAAAAAAAAESAAAKABAAAAAAAAEiAAAIABAAAAAAAAEyAAAJABAAAAAAAAICAAAMwBAAAAAAAAMCAAACABAAAAAAAAAcAAAEABAAAAAAAAEcAAAEgAAAAAAAAAEsAAAFABAAAAAAAAENAAACwAAAAAAAAAhPAAAAQAAAAAAAAA</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>线性PCM</string>
+                        <string>AVC Coding</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-07-14 20:32:07 +0800"/>
+            </metadata>
+        </asset>
+        <asset id="r9" name="s35465.MP4" uid="19C0DF186DDA354F63C1A80A43AA2FEB" start="0s" duration="1080000/50000s" hasVideo="1" format="r1" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
+            <media-rep kind="original-media" sig="19C0DF186DDA354F63C1A80A43AA2FEB" src="file:///Users/qgllpro/Downloads/s35465.MP4">
+                <bookmark>Ym9vazwDAAAAAAUQQAAAAMknrIC0Q20bBWyjUvMRicFnGxZYQlC1R/vcbXyRZO8nAAAAAAAAAAAAAAAAAAAAAPgBAAAgAAAAAQIAAIa1lvMNfsOuPgowEI04fr5J1UCjho98oKLbdJsv2UzUBAAAAAMDAAAAGAAoBQAAAAEBAABVc2VycwAAAAcAAAABAQAAcWdsbHBybwAJAAAAAQEAAERvd25sb2FkcwAAAAoAAAABAQAAczM1NDY1Lk1QNAAAEAAAAAEGAAA4AAAASAAAAFgAAABsAAAACAAAAAQDAADwRwAAAAAAAAgAAAAEAwAAGDwEAAAAAAAIAAAABAMAAEs8BAAAAAAACAAAAAQDAACNHOMAAAAAABAAAAABBgAAmAAAAKgAAAC4AAAAyAAAAAgAAAAABAAAQcf/wAcAAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMDAAAIAAAABAAAAAMDAAACAAAACAAAAAQDAAACAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJBik+cAAAAIAAAAAAQAAEHH34AvAAAAJAAAAAEBAABCNDgxNkJCOS03MTJELTRGMkEtQUUyOS1BN0FCNDFGMTgyNEIYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAPwAAAD+////AQAAAAAAAAAUAAAABBAAAIAAAAAAAAAABRAAANgAAAAAAAAAEBAAAAABAAAAAAAAQBAAAPAAAAAAAAAAVBAAACgBAAAAAAAAVRAAADQBAAAAAAAAVhAAACABAAAAAAAAAiAAAOwBAAAAAAAABSAAAFwBAAAAAAAAECAAAGwBAAAAAAAAESAAAKABAAAAAAAAEiAAAIABAAAAAAAAEyAAAJABAAAAAAAAICAAAMwBAAAAAAAAMCAAACABAAAAAAAAAcAAAEABAAAAAAAAEcAAAEgAAAAAAAAAEsAAAFABAAAAAAAAENAAACwAAAAAAAAAhPAAAAQAAAAAAAAA</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>线性PCM</string>
+                        <string>AVC Coding</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-07-14 20:32:07 +0800"/>
+            </metadata>
+        </asset>
+        <asset id="r10" name="s35390.MP4" uid="343D113CECB0C967928D37E423ABA731" start="0s" duration="8976000/50000s" hasVideo="1" format="r1" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
+            <media-rep kind="original-media" sig="343D113CECB0C967928D37E423ABA731" src="file:///Users/qgllpro/Downloads/s35390.MP4">
+                <bookmark>Ym9vazwDAAAAAAUQQAAAAI2TK4mQBzeZU1rqTlnotg3z/oIkYK42OUYmLKPJQb00AAAAAAAAAAAAAAAAAAAAAPgBAAAgAAAAAQIAAJYflvW1UuRu704UQBgklc2t5qMNKIJjjyTlMGFAtwsABAAAAAMDAAAAGAAoBQAAAAEBAABVc2VycwAAAAcAAAABAQAAcWdsbHBybwAJAAAAAQEAAERvd25sb2FkcwAAAAoAAAABAQAAczM1MzkwLk1QNAAAEAAAAAEGAAA4AAAASAAAAFgAAABsAAAACAAAAAQDAADwRwAAAAAAAAgAAAAEAwAAGDwEAAAAAAAIAAAABAMAAEs8BAAAAAAACAAAAAQDAADjG+MAAAAAABAAAAABBgAAmAAAAKgAAAC4AAAAyAAAAAgAAAAABAAAQcf/m6gAAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMDAAAIAAAABAAAAAMDAAACAAAACAAAAAQDAAACAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJBik+cAAAAIAAAAAAQAAEHH34AvAAAAJAAAAAEBAABCNDgxNkJCOS03MTJELTRGMkEtQUUyOS1BN0FCNDFGMTgyNEIYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAPwAAAD+////AQAAAAAAAAAUAAAABBAAAIAAAAAAAAAABRAAANgAAAAAAAAAEBAAAAABAAAAAAAAQBAAAPAAAAAAAAAAVBAAACgBAAAAAAAAVRAAADQBAAAAAAAAVhAAACABAAAAAAAAAiAAAOwBAAAAAAAABSAAAFwBAAAAAAAAECAAAGwBAAAAAAAAESAAAKABAAAAAAAAEiAAAIABAAAAAAAAEyAAAJABAAAAAAAAICAAAMwBAAAAAAAAMCAAACABAAAAAAAAAcAAAEABAAAAAAAAEcAAAEgAAAAAAAAAEsAAAFABAAAAAAAAENAAACwAAAAAAAAAhPAAAAQAAAAAAAAA</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>线性PCM</string>
+                        <string>AVC Coding</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-07-14 20:32:07 +0800"/>
+            </metadata>
+        </asset>
+        <asset id="r11" name="s35435.MP4" uid="D755B69E5224946EFB782EE8A3C83105" start="0s" duration="1224000/50000s" hasVideo="1" format="r1" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
+            <media-rep kind="original-media" sig="D755B69E5224946EFB782EE8A3C83105" src="file:///Users/qgllpro/Downloads/s35435.MP4">
+                <bookmark>Ym9vazwDAAAAAAUQQAAAAFVeV2YHyFBjt+bLhgKDssTj94yyaVBubzFaQrud0ITPAAAAAAAAAAAAAAAAAAAAAPgBAAAgAAAAAQIAABDj7DHnk8kC61CTnN1YOA3v/h7Wq7u0jDZY0XOVm5GnBAAAAAMDAAAAGAAoBQAAAAEBAABVc2VycwAAAAcAAAABAQAAcWdsbHBybwAJAAAAAQEAAERvd25sb2FkcwAAAAoAAAABAQAAczM1NDM1Lk1QNAAAEAAAAAEGAAA4AAAASAAAAFgAAABsAAAACAAAAAQDAADwRwAAAAAAAAgAAAAEAwAAGDwEAAAAAAAIAAAABAMAAEs8BAAAAAAACAAAAAQDAAA1HOMAAAAAABAAAAABBgAAmAAAAKgAAAC4AAAAyAAAAAgAAAAABAAAQcf/preAAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMDAAAIAAAABAAAAAMDAAACAAAACAAAAAQDAAACAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJBik+cAAAAIAAAAAAQAAEHH34AvAAAAJAAAAAEBAABCNDgxNkJCOS03MTJELTRGMkEtQUUyOS1BN0FCNDFGMTgyNEIYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAPwAAAD+////AQAAAAAAAAAUAAAABBAAAIAAAAAAAAAABRAAANgAAAAAAAAAEBAAAAABAAAAAAAAQBAAAPAAAAAAAAAAVBAAACgBAAAAAAAAVRAAADQBAAAAAAAAVhAAACABAAAAAAAAAiAAAOwBAAAAAAAABSAAAFwBAAAAAAAAECAAAGwBAAAAAAAAESAAAKABAAAAAAAAEiAAAIABAAAAAAAAEyAAAJABAAAAAAAAICAAAMwBAAAAAAAAMCAAACABAAAAAAAAAcAAAEABAAAAAAAAEcAAAEgAAAAAAAAAEsAAAFABAAAAAAAAENAAACwAAAAAAAAAhPAAAAQAAAAAAAAA</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>线性PCM</string>
+                        <string>AVC Coding</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-07-14 20:32:07 +0800"/>
+            </metadata>
+        </asset>
+        <asset id="r12" name="s35450.MP4" uid="A0395176245539FDAE9B776B22EED621" start="0s" duration="1032000/50000s" hasVideo="1" format="r1" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
+            <media-rep kind="original-media" sig="A0395176245539FDAE9B776B22EED621" src="file:///Users/qgllpro/Downloads/s35450.MP4">
+                <bookmark>Ym9vazwDAAAAAAUQQAAAAMGKMmucK2icJKteQ+fz2ShQTVmO8JL/9eBUJPhM/GxxAAAAAAAAAAAAAAAAAAAAAPgBAAAgAAAAAQIAALRm4zWSAfxJpT3IsPoUWZ7DypmKoCElQwTwQ87jVkoJBAAAAAMDAAAAGAAoBQAAAAEBAABVc2VycwAAAAcAAAABAQAAcWdsbHBybwAJAAAAAQEAAERvd25sb2FkcwAAAAoAAAABAQAAczM1NDUwLk1QNAAAEAAAAAEGAAA4AAAASAAAAFgAAABsAAAACAAAAAQDAADwRwAAAAAAAAgAAAAEAwAAGDwEAAAAAAAIAAAABAMAAEs8BAAAAAAACAAAAAQDAAAfHOMAAAAAABAAAAABBgAAmAAAAKgAAAC4AAAAyAAAAAgAAAAABAAAQcf/qeMAAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMDAAAIAAAABAAAAAMDAAACAAAACAAAAAQDAAACAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJBik+cAAAAIAAAAAAQAAEHH34AvAAAAJAAAAAEBAABCNDgxNkJCOS03MTJELTRGMkEtQUUyOS1BN0FCNDFGMTgyNEIYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAPwAAAD+////AQAAAAAAAAAUAAAABBAAAIAAAAAAAAAABRAAANgAAAAAAAAAEBAAAAABAAAAAAAAQBAAAPAAAAAAAAAAVBAAACgBAAAAAAAAVRAAADQBAAAAAAAAVhAAACABAAAAAAAAAiAAAOwBAAAAAAAABSAAAFwBAAAAAAAAECAAAGwBAAAAAAAAESAAAKABAAAAAAAAEiAAAIABAAAAAAAAEyAAAJABAAAAAAAAICAAAMwBAAAAAAAAMCAAACABAAAAAAAAAcAAAEABAAAAAAAAEcAAAEgAAAAAAAAAEsAAAFABAAAAAAAAENAAACwAAAAAAAAAhPAAAAQAAAAAAAAA</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>线性PCM</string>
+                        <string>AVC Coding</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-07-14 20:32:07 +0800"/>
+            </metadata>
+        </asset>
+        <asset id="r13" name="s35397.MP4" uid="C2726A9A741F24A9CB5410341EB70611" start="0s" duration="480000/50000s" hasVideo="1" format="r1" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
+            <media-rep kind="original-media" sig="C2726A9A741F24A9CB5410341EB70611" src="file:///Users/qgllpro/Downloads/s35397.MP4">
+                <bookmark>Ym9vazwDAAAAAAUQQAAAALAutJHgHwM0Z2G58Va9HJz9JqBklQYdQN9Lb8ROB2+QAAAAAAAAAAAAAAAAAAAAAPgBAAAgAAAAAQIAAKUBw0DEErBgbm3N833ygDMpX5k3SkFCVBwWr/o9PxaoBAAAAAMDAAAAGAAoBQAAAAEBAABVc2VycwAAAAcAAAABAQAAcWdsbHBybwAJAAAAAQEAAERvd25sb2FkcwAAAAoAAAABAQAAczM1Mzk3Lk1QNAAAEAAAAAEGAAA4AAAASAAAAFgAAABsAAAACAAAAAQDAADwRwAAAAAAAAgAAAAEAwAAGDwEAAAAAAAIAAAABAMAAEs8BAAAAAAACAAAAAQDAAAAHOMAAAAAABAAAAABBgAAmAAAAKgAAAC4AAAAyAAAAAgAAAAABAAAQcf/nLGAAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMDAAAIAAAABAAAAAMDAAACAAAACAAAAAQDAAACAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJBik+cAAAAIAAAAAAQAAEHH34AvAAAAJAAAAAEBAABCNDgxNkJCOS03MTJELTRGMkEtQUUyOS1BN0FCNDFGMTgyNEIYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAPwAAAD+////AQAAAAAAAAAUAAAABBAAAIAAAAAAAAAABRAAANgAAAAAAAAAEBAAAAABAAAAAAAAQBAAAPAAAAAAAAAAVBAAACgBAAAAAAAAVRAAADQBAAAAAAAAVhAAACABAAAAAAAAAiAAAOwBAAAAAAAABSAAAFwBAAAAAAAAECAAAGwBAAAAAAAAESAAAKABAAAAAAAAEiAAAIABAAAAAAAAEyAAAJABAAAAAAAAICAAAMwBAAAAAAAAMCAAACABAAAAAAAAAcAAAEABAAAAAAAAEcAAAEgAAAAAAAAAEsAAAFABAAAAAAAAENAAACwAAAAAAAAAhPAAAAQAAAAAAAAA</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>线性PCM</string>
+                        <string>AVC Coding</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-07-14 20:32:07 +0800"/>
+            </metadata>
+        </asset>
+        <asset id="r14" name="s35374.MP4" uid="D47992B81C8D8227EE3E0E64CD6C0569" start="0s" duration="3552000/50000s" hasVideo="1" format="r1" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
+            <media-rep kind="original-media" sig="D47992B81C8D8227EE3E0E64CD6C0569" src="file:///Users/qgllpro/Downloads/s35374.MP4">
+                <bookmark>Ym9vazwDAAAAAAUQQAAAAIl9ElGL3kB9GQ0eIRQaXWkbwYDBiIUSutvQ343CpxhmAAAAAAAAAAAAAAAAAAAAAPgBAAAgAAAAAQIAAEDRWXkqK+wNQtTU31baGXsycI8vkEA5PqR13HS0OtPsBAAAAAMDAAAAGAAoBQAAAAEBAABVc2VycwAAAAcAAAABAQAAcWdsbHBybwAJAAAAAQEAAERvd25sb2FkcwAAAAoAAAABAQAAczM1Mzc0Lk1QNAAAEAAAAAEGAAA4AAAASAAAAFgAAABsAAAACAAAAAQDAADwRwAAAAAAAAgAAAAEAwAAGDwEAAAAAAAIAAAABAMAAEs8BAAAAAAACAAAAAQDAADXG+MAAAAAABAAAAABBgAAmAAAAKgAAAC4AAAAyAAAAAgAAAAABAAAQcf/ljYAAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMDAAAIAAAABAAAAAMDAAACAAAACAAAAAQDAAACAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJBik+cAAAAIAAAAAAQAAEHH34AvAAAAJAAAAAEBAABCNDgxNkJCOS03MTJELTRGMkEtQUUyOS1BN0FCNDFGMTgyNEIYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAPwAAAD+////AQAAAAAAAAAUAAAABBAAAIAAAAAAAAAABRAAANgAAAAAAAAAEBAAAAABAAAAAAAAQBAAAPAAAAAAAAAAVBAAACgBAAAAAAAAVRAAADQBAAAAAAAAVhAAACABAAAAAAAAAiAAAOwBAAAAAAAABSAAAFwBAAAAAAAAECAAAGwBAAAAAAAAESAAAKABAAAAAAAAEiAAAIABAAAAAAAAEyAAAJABAAAAAAAAICAAAMwBAAAAAAAAMCAAACABAAAAAAAAAcAAAEABAAAAAAAAEcAAAEgAAAAAAAAAEsAAAFABAAAAAAAAENAAACwAAAAAAAAAhPAAAAQAAAAAAAAA</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>线性PCM</string>
+                        <string>AVC Coding</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-07-14 20:32:07 +0800"/>
+            </metadata>
+        </asset>
+        <asset id="r15" name="s35368.MP4" uid="B9581CC36B1DC6110B22A910BEF99699" start="0s" duration="504000/50000s" hasVideo="1" format="r1" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
+            <media-rep kind="original-media" sig="B9581CC36B1DC6110B22A910BEF99699" src="file:///Users/qgllpro/Downloads/s35368.MP4">
+                <bookmark>Ym9vazwDAAAAAAUQQAAAAAfd7jCv2mahDVwfuT7oomfatYq8KY399QwCORyz3HLkAAAAAAAAAAAAAAAAAAAAAPgBAAAgAAAAAQIAAELLcN8Akd23i92vXaEpX7wPHPz/cwmKXn1YmWEbFMKxBAAAAAMDAAAAGAAoBQAAAAEBAABVc2VycwAAAAcAAAABAQAAcWdsbHBybwAJAAAAAQEAAERvd25sb2FkcwAAAAoAAAABAQAAczM1MzY4Lk1QNAAAEAAAAAEGAAA4AAAASAAAAFgAAABsAAAACAAAAAQDAADwRwAAAAAAAAgAAAAEAwAAGDwEAAAAAAAIAAAABAMAAEs8BAAAAAAACAAAAAQDAAC9G+MAAAAAABAAAAABBgAAmAAAAKgAAAC4AAAAyAAAAAgAAAAABAAAQcf/lAGAAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMDAAAIAAAABAAAAAMDAAACAAAACAAAAAQDAAACAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJBik+cAAAAIAAAAAAQAAEHH34AvAAAAJAAAAAEBAABCNDgxNkJCOS03MTJELTRGMkEtQUUyOS1BN0FCNDFGMTgyNEIYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAPwAAAD+////AQAAAAAAAAAUAAAABBAAAIAAAAAAAAAABRAAANgAAAAAAAAAEBAAAAABAAAAAAAAQBAAAPAAAAAAAAAAVBAAACgBAAAAAAAAVRAAADQBAAAAAAAAVhAAACABAAAAAAAAAiAAAOwBAAAAAAAABSAAAFwBAAAAAAAAECAAAGwBAAAAAAAAESAAAKABAAAAAAAAEiAAAIABAAAAAAAAEyAAAJABAAAAAAAAICAAAMwBAAAAAAAAMCAAACABAAAAAAAAAcAAAEABAAAAAAAAEcAAAEgAAAAAAAAAEsAAAFABAAAAAAAAENAAACwAAAAAAAAAhPAAAAQAAAAAAAAA</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>线性PCM</string>
+                        <string>AVC Coding</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-07-14 20:32:07 +0800"/>
+            </metadata>
+        </asset>
+        <asset id="r16" name="s35354.MP4" uid="59BB762174DE4A8E6752F87A12BBAE9F" start="0s" duration="312000/50000s" hasVideo="1" format="r1" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
+            <media-rep kind="original-media" sig="59BB762174DE4A8E6752F87A12BBAE9F" src="file:///Users/qgllpro/Downloads/s35354.MP4">
+                <bookmark>Ym9vazwDAAAAAAUQQAAAAMCBLT5Q2kUaOi/pDlebzaXQg9OPUgYvTpydbcyn+yyUAAAAAAAAAAAAAAAAAAAAAPgBAAAgAAAAAQIAAF74JWqJrTgnHgs1PnCd6M5GoTP/CIVlSpZKpmxx60MOBAAAAAMDAAAAGAAoBQAAAAEBAABVc2VycwAAAAcAAAABAQAAcWdsbHBybwAJAAAAAQEAAERvd25sb2FkcwAAAAoAAAABAQAAczM1MzU0Lk1QNAAAEAAAAAEGAAA4AAAASAAAAFgAAABsAAAACAAAAAQDAADwRwAAAAAAAAgAAAAEAwAAGDwEAAAAAAAIAAAABAMAAEs8BAAAAAAACAAAAAQDAACqG+MAAAAAABAAAAABBgAAmAAAAKgAAAC4AAAAyAAAAAgAAAAABAAAQcf/kM8AAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAABBQAABAAAAAMDAAAIAAAABAAAAAMDAAACAAAACAAAAAQDAAACAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJBik+cAAAAIAAAAAAQAAEHH34AvAAAAJAAAAAEBAABCNDgxNkJCOS03MTJELTRGMkEtQUUyOS1BN0FCNDFGMTgyNEIYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAPwAAAD+////AQAAAAAAAAAUAAAABBAAAIAAAAAAAAAABRAAANgAAAAAAAAAEBAAAAABAAAAAAAAQBAAAPAAAAAAAAAAVBAAACgBAAAAAAAAVRAAADQBAAAAAAAAVhAAACABAAAAAAAAAiAAAOwBAAAAAAAABSAAAFwBAAAAAAAAECAAAGwBAAAAAAAAESAAAKABAAAAAAAAEiAAAIABAAAAAAAAEyAAAJABAAAAAAAAICAAAMwBAAAAAAAAMCAAACABAAAAAAAAAcAAAEABAAAAAAAAEcAAAEgAAAAAAAAAEsAAAFABAAAAAAAAENAAACwAAAAAAAAAhPAAAAQAAAAAAAAA</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>线性PCM</string>
+                        <string>AVC Coding</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2026-07-14 20:32:07 +0800"/>
+            </metadata>
+        </asset>
+    </resources>
+    <library location="file:///Users/qgllpro/%E5%AD%98%E5%82%A8/%E6%B5%8B%E8%AF%95.fcpbundle/">
+        <event name="CutBridge Import" uid="6DCABCA0-908D-4C4B-903E-AB85A579E15A">
+            <project name="序列 02 (Resolve)" uid="6171696A-4037-43E5-AABA-5B3CAFAC7610" modDate="2026-07-14 20:32:07 +0800">
+                <sequence format="r1" duration="33336000/50000s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+                    <spine>
+                        <asset-clip ref="r2" offset="0s" name="s35597.MP4" duration="1632000/50000s" tcFormat="NDF" audioRole="dialogue">
+                            <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                        </asset-clip>
+                        <asset-clip ref="r3" offset="1632000/50000s" name="s35569.MP4" duration="1008000/50000s" tcFormat="NDF" audioRole="dialogue">
+                            <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                        </asset-clip>
+                        <asset-clip ref="r4" offset="2640000/50000s" name="s35565.MP4" duration="1464000/50000s" tcFormat="NDF" audioRole="dialogue">
+                            <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                        </asset-clip>
+                        <asset-clip ref="r5" offset="4104000/50000s" name="s35535.MP4" duration="1296000/50000s" tcFormat="NDF" audioRole="dialogue">
+                            <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                            <video ref="r5" lane="3" offset="859/50s" name="s35535.MP4" duration="648/25s">
+                                <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                            </video>
+                        </asset-clip>
+                        <asset-clip ref="r6" offset="108s" name="s35532.MP4" duration="1584000/50000s" tcFormat="NDF" audioRole="dialogue">
+                            <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                            <video ref="r7" lane="2" offset="317/50s" name="s35494.MP4" duration="2028/25s">
+                                <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                            </video>
+                            <video ref="r2" lane="5" offset="859/50s" name="s35597.MP4" duration="816/25s">
+                                <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                            </video>
+                        </asset-clip>
+                        <asset-clip ref="r7" offset="6984000/50000s" name="s35494.MP4" duration="4056000/50000s" tcFormat="NDF" audioRole="dialogue">
+                            <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                            <video ref="r4" lane="4" offset="679/50s" name="s35565.MP4" duration="732/25s">
+                                <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                            </video>
+                            <video ref="r6" lane="5" offset="276/5s" name="s35532.MP4" duration="792/25s">
+                                <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                            </video>
+                        </asset-clip>
+                        <asset-clip ref="r8" offset="11040000/50000s" name="s35491.MP4" duration="528000/50000s" tcFormat="NDF" audioRole="dialogue">
+                            <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                            <video ref="r7" lane="4" offset="144/25s" name="s35494.MP4" duration="2028/25s">
+                                <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                            </video>
+                        </asset-clip>
+                        <asset-clip ref="r9" offset="11568000/50000s" name="s35465.MP4" duration="1080000/50000s" tcFormat="NDF" audioRole="dialogue">
+                            <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                            <audio ref="r10" lane="-3" offset="0s" name="s35390.MP4" duration="4488/25s" role="dialogue.track-3" srcCh="1"/>
+                            <audio ref="r10" lane="-2" offset="0s" name="s35390.MP4" duration="4488/25s" role="dialogue.track-2" srcCh="1"/>
+                            <video ref="r10" lane="2" offset="0s" name="s35390.MP4" duration="4488/25s">
+                                <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                            </video>
+                            <video ref="r10" lane="3" offset="0s" name="s35390.MP4" duration="4488/25s">
+                                <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                            </video>
+                        </asset-clip>
+                        <asset-clip ref="r11" offset="12648000/50000s" name="s35435.MP4" duration="1224000/50000s" tcFormat="NDF" audioRole="dialogue">
+                            <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                        </asset-clip>
+                        <asset-clip ref="r12" offset="13872000/50000s" name="s35450.MP4" duration="1032000/50000s" tcFormat="NDF" audioRole="dialogue">
+                            <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                        </asset-clip>
+                        <asset-clip ref="r13" offset="14904000/50000s" name="s35397.MP4" duration="480000/50000s" tcFormat="NDF" audioRole="dialogue">
+                            <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                        </asset-clip>
+                        <asset-clip ref="r10" offset="15384000/50000s" name="s35390.MP4" duration="8976000/50000s" tcFormat="NDF" audioRole="dialogue">
+                            <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                            <video ref="r12" lane="5" offset="624/25s" name="s35450.MP4" duration="516/25s">
+                                <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                            </video>
+                            <video ref="r14" lane="3" offset="6329/50s" name="s35374.MP4" duration="1776/25s">
+                                <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                            </video>
+                            <video ref="r10" lane="4" offset="7339/50s" name="s35390.MP4" duration="4488/25s">
+                                <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                            </video>
+                        </asset-clip>
+                        <asset-clip ref="r14" offset="24360000/50000s" name="s35374.MP4" duration="3552000/50000s" tcFormat="NDF" audioRole="dialogue">
+                            <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                            <video ref="r10" lane="2" offset="0s" name="s35390.MP4" duration="4488/25s">
+                                <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                            </video>
+                        </asset-clip>
+                        <asset-clip ref="r15" offset="27912000/50000s" name="s35368.MP4" duration="504000/50000s" tcFormat="NDF" audioRole="dialogue">
+                            <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                        </asset-clip>
+                        <asset-clip ref="r16" offset="28416000/50000s" name="s35354.MP4" duration="312000/50000s" tcFormat="NDF" audioRole="dialogue">
+                            <adjust-colorConform enabled="1" autoOrManual="manual" conformType="conformNone" peakNitsOfPQSource="1000" peakNitsOfSDRToPQSource="203"/>
+                        </asset-clip>
+                        <gap name="Gap" offset="28728000/50000s" duration="2304/25s"/>
+                    </spine>
+                </sequence>
+            </project>
+        </event>
+        <smart-collection name="项目" match="all">
+            <match-clip rule="is" type="project"/>
+        </smart-collection>
+        <smart-collection name="所有视频" match="any">
+            <match-media rule="is" type="videoOnly"/>
+            <match-media rule="is" type="videoWithAudio"/>
+        </smart-collection>
+        <smart-collection name="仅音频" match="all">
+            <match-media rule="is" type="audioOnly"/>
+        </smart-collection>
+        <smart-collection name="静止图像" match="all">
+            <match-media rule="is" type="stills"/>
+        </smart-collection>
+        <smart-collection name="个人收藏" match="all">
+            <match-ratings value="favorites"/>
+        </smart-collection>
+        <smart-collection name="缺少分析" match="all">
+            <match-analysis-type rule="isMissing" value="any"/>
+        </smart-collection>
+    </library>
+</fcpxml>

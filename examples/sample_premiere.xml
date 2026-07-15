@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xmeml>
+<xmeml version="5">
+  <project>
+    <name>CutBridge Sample</name>
+    <children>
+      <sequence id="sequence-1">
+        <name>Sample Timeline</name>
+        <duration>250</duration>
+        <rate><timebase>25</timebase><ntsc>FALSE</ntsc></rate>
+        <timecode>
+          <rate><timebase>25</timebase><ntsc>FALSE</ntsc></rate>
+          <string>01:00:00:00</string>
+          <frame>90000</frame>
+          <displayformat>NDF</displayformat>
+        </timecode>
+        <media>
+          <video>
+            <format>
+              <samplecharacteristics>
+                <rate><timebase>25</timebase><ntsc>FALSE</ntsc></rate>
+                <width>1920</width><height>1080</height>
+              </samplecharacteristics>
+            </format>
+            <track>
+              <clipitem id="clip-v1-1">
+                <name>Shot A</name>
+                <duration>250</duration>
+                <rate><timebase>25</timebase><ntsc>FALSE</ntsc></rate>
+                <start>0</start><end>125</end><in>25</in><out>150</out>
+                <file id="file-1">
+                  <name>shot_a.mov</name>
+                  <pathurl>file://localhost/Volumes/Media/shot_a.mov</pathurl>
+                  <rate><timebase>25</timebase><ntsc>FALSE</ntsc></rate>
+                  <duration>500</duration>
+                  <timecode><frame>0</frame><rate><timebase>25</timebase><ntsc>FALSE</ntsc></rate></timecode>
+                  <media>
+                    <video><samplecharacteristics><width>1920</width><height>1080</height></samplecharacteristics></video>
+                    <audio><samplecharacteristics><samplerate>48000</samplerate></samplecharacteristics><channelcount>2</channelcount></audio>
+                  </media>
+                </file>
+                <marker><name>检查镜头</name><in>50</in><out>50</out><comment>示例片段标记</comment></marker>
+              </clipitem>
+              <clipitem id="clip-v1-2">
+                <name>Shot B</name>
+                <duration>300</duration>
+                <rate><timebase>25</timebase><ntsc>FALSE</ntsc></rate>
+                <start>125</start><end>250</end><in>10</in><out>135</out>
+                <file id="file-2">
+                  <name>shot_b.mov</name>
+                  <pathurl>file://localhost/Volumes/Media/shot_b.mov</pathurl>
+                  <rate><timebase>25</timebase><ntsc>FALSE</ntsc></rate>
+                  <duration>300</duration>
+                  <media>
+                    <video><samplecharacteristics><width>1920</width><height>1080</height></samplecharacteristics></video>
+                    <audio><samplecharacteristics><samplerate>48000</samplerate></samplecharacteristics><channelcount>2</channelcount></audio>
+                  </media>
+                </file>
+              </clipitem>
+              <transitionitem id="transition-1"><name>Cross Dissolve</name><start>120</start><end>130</end></transitionitem>
+            </track>
+            <track>
+              <clipitem id="clip-v2-1">
+                <name>Overlay</name>
+                <duration>100</duration>
+                <rate><timebase>25</timebase><ntsc>FALSE</ntsc></rate>
+                <start>50</start><end>100</end><in>0</in><out>50</out>
+                <file id="file-2"/>
+              </clipitem>
+            </track>
+          </video>
+          <audio>
+            <format><samplecharacteristics><depth>16</depth><samplerate>48000</samplerate></samplecharacteristics></format>
+            <track>
+              <clipitem id="clip-a1-1">
+                <name>Shot A Audio</name>
+                <duration>250</duration>
+                <rate><timebase>25</timebase><ntsc>FALSE</ntsc></rate>
+                <start>0</start><end>125</end><in>25</in><out>150</out>
+                <file id="file-1"/>
+                <filter><effect><name>Audio Levels</name><parameter><parameterid>level</parameterid><value>0.8</value></parameter></effect></filter>
+              </clipitem>
+              <clipitem id="clip-a1-2">
+                <name>Shot B Audio</name>
+                <duration>300</duration>
+                <rate><timebase>25</timebase><ntsc>FALSE</ntsc></rate>
+                <start>125</start><end>250</end><in>10</in><out>135</out>
+                <file id="file-2"/>
+              </clipitem>
+            </track>
+          </audio>
+        </media>
+        <marker><name>Sequence Marker</name><in>100</in><out>100</out><comment>示例序列标记</comment></marker>
+      </sequence>
+    </children>
+  </project>
+</xmeml>
